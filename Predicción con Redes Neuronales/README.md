@@ -1,0 +1,3 @@
+# Sobre el repositorio:
+
+Se trabaja con redes neuronales convolucionales, es decir, se intenta predecir mediante transformaciones de los datos de manera que el código pueda entender puntos importantes de la data. **El Jupyter Notebook se ejecuta principalmente en Google Colab**. La BDD puede ser encontrada en el siguiente link: https://drive.google.com/file/d/1wZRHmXm0Ia4zDcpHaIzYdmuNOVv3ccjZ/view?usp=sharing
